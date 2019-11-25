@@ -1,6 +1,5 @@
 # TS3-listowanie-kanalow
-skrypt w Python do listowania kanałów w ts3
-
+Skrypt w Python do listowania kanałów na serwerze TeamSpeak3.
 Aby wszystko działało poprawnie: 
 1. Zainstaluj  PyTS3 
   - http://py-ts3.readthedocs.io/en/latest/installation.html
@@ -8,6 +7,10 @@ Aby wszystko działało poprawnie:
 3. Pliki <b>index.php</b>, <b>listing.py</b> i <b>listed.php</b> powinny znajdować się w tym samym katalogu.
 4. Skrypt uruchamiaj komendą: python3 listing.py > listed.txt
 5. Enjoy.
+
+UWAGA!<br>
+Skrypt może nie działać poprawnie dla wersji po 2017 roku.
+
 
 Przykładowy wygląd:</br>
 
